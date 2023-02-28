@@ -1,7 +1,7 @@
 name: terrain
 description: Describes 3D terrains via height-map and array of patches.
 version: 0.1.0
-repository: https://github.com/xclud/my_repo
+repository: https://github.com/xclud/dart_terrain
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
